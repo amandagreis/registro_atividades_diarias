@@ -1,6 +1,6 @@
 # NLW SETUP
 
-## [Habits - Rotina Diária] (https://rotinadiaria.netlify.app/)
+## [Habits - Rotina Diária](https://rotinadiaria.netlify.app/)
 
 
 Utilizando HTML, CSS e Javascript criei um site de registro de atividades diárias em formato de check-list.
